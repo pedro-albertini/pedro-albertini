@@ -11,6 +11,6 @@
 ##
 
 <div>
-  <a href="pedro.albertini100@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30 width = 100></a>
-  <a href="www.linkedin.com/in/pedroalbertini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30 width = 100></a>
+  <a href="mailto:contato@pedro.albertini100" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30 width = 100></a>
+  <a href="https://www.linkedin.com/in/pedroalbertini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30 width = 100></a>
 </div>
