@@ -7,7 +7,7 @@
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=pedro-albertini&show_icons=true&count_private=true&hide_border=true&title_color=52be8e&icon_color=52be8e&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Albertini github stats"/> 
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-albertini&layout=compact&hide_border=true&hide=jupyter%20notebook&title_color=52be8e&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="224px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-albertini&layout=compact&hide_border=true&hide=jupyter%20notebook&title_color=52be8e&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br><br>
