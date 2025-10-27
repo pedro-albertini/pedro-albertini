@@ -18,7 +18,7 @@
 
 🎓 Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC.
 
-🎓 Sou tecnico em **Analise e Desenvolvimento de Sistema** pela ETEC.
+🎓 Sou técnico em **Análise e Desenvolvimento de Sistema** pela ETEC.
 
 <br>
 
