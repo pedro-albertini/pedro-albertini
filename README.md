@@ -6,8 +6,8 @@
 <br>
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-albertini&show_icons=true&count_private=true&hide_border=true&title_color=52be8e&icon_color=52be8e&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Pedro Albertini"/> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-albertini&layout=compact&hide_border=true&hide=jupyter%20notebook&title_color=52be8e&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=pedro-albertini&show_icons=true&count_private=true&hide_border=true&title_color=52be8e&icon_color=52be8e&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Pedro Albertini"/> 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-albertini&layout=compact&hide_border=true&hide=jupyter%20notebook&title_color=52be8e&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br><br>
