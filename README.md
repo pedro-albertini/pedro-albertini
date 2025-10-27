@@ -12,28 +12,34 @@
 
 <br><br>
 
-### Studying in this moment:
-[![Studying](https://skillicons.dev/icons?i=js,java,mysql&theme=light)](https://skillicons.dev)
+### 💼 About me
+Currently working as an **intern in DevSecOps and Cloud**, developing skills in **automation, infrastructure management and cloud security practices**.  
+Studying **Software Development** at **FATEC**, with a focus on backend systems, containerization and cloud solutions.
 
-### Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,github,windows&theme=light)](https://skillicons.dev)
- 
-### Other Knowledge:
-[![Studying](https://skillicons.dev/icons?i=html,css,python,figma,bootstrap&theme=light)](https://skillicons.dev)
+<br>
 
-### Contats:
+### 🧠 Ferramentas e Tecnologias
+[![Tools](https://skillicons.dev/icons?i=java,js,python,mysql,html,css,bootstrap,figma,vscode,github,windows,linux,aws,docker,kubernetes&theme=light)](https://skillicons.dev)
+
+#### ☁️ Cloud & DevOps Focus
+🔹 **AWS** — gerenciamento de EC2, S3, IAM, e práticas de arquitetura escalável.  
+🔹 **Docker** — criação e deploy de containers, imagens otimizadas e integração contínua.  
+🔹 **Kubernetes** — orquestração de aplicações e gerenciamento de clusters.  
+🔹 **Linux** — administração, automação via shell e controle de permissões.  
+🔹 **FinOps** — otimização de custos em ambientes de nuvem com análise e monitoramento eficiente.  
+🔹 **DevSecOps** — integração de segurança no ciclo de desenvolvimento, CI/CD e políticas de compliance.
+
+<br>
+
+### 📫 Contacts:
 <a href = "mailto:pedro.albertini100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"></a>
 <a href="https://www.linkedin.com/in/pedroalbertini/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" target="_blank"></a>
 <a href="https://github.com/pedro-albertini" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=light" target="_blank"></a>
 
 <br>
-
 <hr>
-
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-albertini&bg_color=000000&color=c9d1d9&line=52be8e&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52be8e&height=120&section=footer"/>
